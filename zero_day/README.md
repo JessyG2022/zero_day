@@ -1,1 +1,1 @@
-**This is mandatory in projects**
+__This is mandatory in projects__
